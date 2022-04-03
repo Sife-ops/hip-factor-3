@@ -1,3 +1,4 @@
 *.zip
 *backups/
+*temp.stl
 stl/
