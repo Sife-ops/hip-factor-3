@@ -1,4 +1,7 @@
 *.zip
 *backups/
+*fp-info-cache
+*shadow-realm/
 *temp.stl
+plot/
 stl/
